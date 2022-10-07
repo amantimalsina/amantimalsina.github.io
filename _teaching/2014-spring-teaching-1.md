@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant at University at Buffalo"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "CSE 331: Algorithms and Complexity"
+permalink: /teaching/2021-fall-teaching-1
+venue: "University at Buffalo, Department of Computer Science and Engineering"
+date: 2021-04-12
+location: "Buffalo, NY"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
