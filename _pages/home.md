@@ -11,7 +11,11 @@ I am a first-year PhD student in the [Department of Computer Science](https://cs
 
 I completed my undergraduate in Computer Science and Mathematics at the University at Buffalo, where I was fortunate to be mentored by [Prof. Atri Rudra](https://cse.buffalo.edu/faculty/atri/) and [Prof. Matthew G. Knepley](https://cse.buffalo.edu/~knepley/).
 
+<<<<<<< HEAD
 Here's my brief [CV](/files/cv.pdf).
+=======
+Here's my brief [CV](http://amantimalsina.github.io/files/CV.pdf).
+>>>>>>> b575b8d0cc5209e2f0ab1ca61ef8b85cfcba6883
 
 ## Preprints and Publications
 - **Aman Timalsina** and Matthew G. Knepley, “Tetrahedralization of a Hexahedral Complex", *arXiv preprint
