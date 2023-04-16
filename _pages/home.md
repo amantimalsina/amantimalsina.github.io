@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Computer Science](https://cs.purdue.edu/) at Purdue University. I'm advised by [Prof. Tamal Dey](https://www.cs.purdue.edu/people/faculty/tamaldey.html).
+I am a PhD student in the [Department of Computer Science](https://cs.purdue.edu/) at Purdue University.
