@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Computer Science](https://cs.purdue.edu/) at Purdue University.
+I am a graduate student in the [Department of Computer Science](https://cs.purdue.edu/) at Purdue University.
